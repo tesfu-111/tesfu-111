@@ -104,11 +104,11 @@ Programming assignments and projects from my studies.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=biruk926&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E5B83D&icon_color=E5B83D&text_color=FFFFFF&rank_icon=github" alt="Obito's GitHub statistics"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tesfu-111&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E5B83D&icon_color=E5B83D&text_color=FFFFFF&rank_icon=github" alt="Obito's GitHub statistics"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biruk926&layout=compact&hide_border=true&bg_color=0D1117&title_color=E5B83D&text_color=FFFFFF" alt="Most used languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tesfu-111&layout=compact&hide_border=true&bg_color=0D1117&title_color=E5B83D&text_color=FFFFFF" alt="Most used languages"/>
 
-<img width="95%" src="https://streak-stats.demolab.com?user=biruk926&hide_border=true&background=0D1117&ring=E5B83D&fire=E5B83D&currStreakLabel=E5B83D&sideLabels=FFFFFF&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
+<img width="95%" src="https://streak-stats.demolab.com?user=tesfu-111&hide_border=true&background=0D1117&ring=E5B83D&fire=E5B83D&currStreakLabel=E5B83D&sideLabels=FFFFFF&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
 
 </div>
 
